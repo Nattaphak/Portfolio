@@ -29,7 +29,7 @@ div
 .grid-container 
 {
     display: grid;
-    grid-template-columns: 30% 40% 30%;
+    grid-template-columns: 20% auto 40%;
     grid-gap: 10px;
 }
 
