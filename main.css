@@ -46,7 +46,7 @@ div
 #header2
 {
     background-color: rgb(195, 249, 231);
-	grid-column: 1 / span 2;
+	grid-column: 1 / span 3;
 }
 
 #navigation
